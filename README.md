@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zennon-sml.
+- 👋 Hi, I’m zennon sampaio
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate basic projects
 - 📫 How to reach me e-mail zennonsampaioml@gmail.com
