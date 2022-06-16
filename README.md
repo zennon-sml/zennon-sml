@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zennon sampaio
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning go and python
+- 🌱 I’m currently learning go and sql
 - 💞️ I’m looking to collaborate with projects for start my career
 - 📫 How to reach me e-mail zennonsampaioml@gmail.com
